@@ -5,6 +5,7 @@ I'm a Data Analyst, I have an excellent understanding and proficiency in data co
 ![Googlesheets](https://img.shields.io/badge/-Googlesheets-3776AB?logo=Googlesheets&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-3776AB?logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-3776AB?logo=Excel&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-3776AB?logo=SQL&logoColor=white)
 ![Bigquery](https://img.shields.io/badge/-Bigquery-3776AB?logo=Bigquery&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reginaldanthony&show_icons=true&theme=radical)
