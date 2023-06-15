@@ -1,5 +1,5 @@
 # Hi there, I'm Reginald 👋
-I'm a Data Analyst, I have an excellent understanding and proficiency in data collection, data cleaning, relational databases, SQL, BigQuery, and R programming. Additionally, I possess strong data analytics and data visualization skills, utilizing tools such as spreadsheets (Sheets, Excel), RStudio, and Tableau.
+I'm a Data Analyst, I have an excellent understanding and proficiency in data collection, data cleaning, relational databases, SQL, BigQuery, and R programming. Additionally, I possess strong data analytics and data visualization skills, utilizing tools such as spreadsheets (Sheets, Excel), RStudio, and Tableau..
 
 ![R](https://img.shields.io/badge/-R-3776AB?logo=R&logoColor=white)
 ![Googlesheets](https://img.shields.io/badge/-Googlesheets-3776AB?logo=Googlesheets&logoColor=white)
