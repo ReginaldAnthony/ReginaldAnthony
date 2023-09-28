@@ -7,7 +7,7 @@ I'm a Data Analyst, I have an excellent understanding and proficiency in data co
 ![Excel](https://img.shields.io/badge/-Excel-3776AB?logo=Excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-3776AB?logo=SQL&logoColor=white)
 ![Bigquery](https://img.shields.io/badge/-Bigquery-3776AB?logo=Bigquery&logoColor=white)
-
+![Cognosanalytics](https://img.shields.io/badge/-Cognosanalytics-3776AB?logo=Cognosanalytics&logoColor=white)
 
 
 
